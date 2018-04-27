@@ -1,0 +1,11 @@
+Input:
+P1: q p
+P2: a s1 r3 b
+P3: c r2 s3 NULL
+P4: r1 d s2 e 
+
+
+Output:
+P1:1 2 8 9 
+P2:1 6 7 
+P3:3 4 5 6 

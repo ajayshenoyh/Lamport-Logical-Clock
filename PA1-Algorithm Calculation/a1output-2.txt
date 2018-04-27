@@ -1,0 +1,10 @@
+Input:
+P1: a s1 r b
+P2: c r2 s3
+P3: r1 d s2 e
+
+Output:
+P1:1 2 
+P2:1 2 8 9 
+P3:1 6 7 0 
+P4:3 4 5 6 
